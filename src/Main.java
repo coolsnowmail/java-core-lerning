@@ -9,5 +9,18 @@ public class Main {
         tank.turnLeft();
         tank.goBackward(180);
         tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
+        tank.printPosition();
     }
 }
