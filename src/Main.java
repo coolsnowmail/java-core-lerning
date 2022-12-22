@@ -8,6 +8,13 @@ public class Main {
         tank.printPosition();
         tank.turnLeft();
         tank.goBackward(180);
+        tank.goBackward(180);
+        tank.goBackward(180);
+        tank.goBackward(180);
         tank.printPosition();
+
+
+
+
     }
 }
