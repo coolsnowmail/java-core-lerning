@@ -11,9 +11,6 @@ public class Main {
         tank.goBackward(180);
         tank.goBackward(180);
         tank.goBackward(180);
-        tank.goBackward(180);
-        tank.goBackward(180);
-        tank.goBackward(180);
         tank.printPosition();
 
 
