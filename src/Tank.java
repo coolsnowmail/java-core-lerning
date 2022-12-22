@@ -46,6 +46,8 @@ public class Tank {
   goForward(-move);
  }
 
+
+
  public void printPosition() {
   System.out.println("The Tank is at " + x + ":" + y + " now. " + "GAS: " + fuel);
  }
